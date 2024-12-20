@@ -22,7 +22,7 @@ Throughout the development of IcesiPalace, our team gained valuable experience i
 
 ## Authors
 
-- [@Rony7v7](https://www.github.com/Rony7v7)
+- [@RonyOz](https://www.github.com/RonyOz)
 - [@David104087](https://www.github.com/David104087)
 - [@JuanJDlp](https://www.github.com/JuanJDlp)
 
@@ -33,7 +33,7 @@ Throughout the development of IcesiPalace, our team gained valuable experience i
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/Rony7v7/IcesiPalace
+    git clone https://github.com/Ronyoz/IcesiPalace
     ```
 
 2. **Navigate to the Project Directory:**
